@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Buch of Twigs</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza no="1">
+        <!--Note: not capitalised on original site so not capitalised here.-->
+        <line no="1">In the <reference type="place">isle of man</reference>there are no louts</line>
+        <line no="2">They’re all down the dungeons <colloquial type="saying">dishing it out</colloquial></line>
+        <!--Common opposition used in everyting from parenting to beauty products-->
+        <line no="3">Think them <colloquial type="saying">tough but tender</colloquial></line>
+        <line no="4">With a bunch of twigs</line>
+        <!-- Political/legal way to describe someone who's committed a crime. Pop culture connotations.-->
+        <line no="5">And a <reference type="political">young offender</reference></line>
+    </stanza>
+    <stanza no="2">
+        <line no="1">Old men with purple necks</line>
+        <line no="2">Who tell you sport is better than sex</line>
+        <line no="3"><reference type="literary"> Rejuvenare</reference> an old pudenda</line>
+        <line no="4">With a bunch of twigs and a young offender</line>
+    </stanza>
+    <stanza no="3">
+        <line no="1">Sweet little fifteen on a summer hike</line>
+        <line no="2">Vandal maimed, vandal spite</line>
+        <line no="3">Vandals sent to up above</line>
+        <line no="4">A punishment meted out with love</line>
+    </stanza>
+</poem>

@@ -10,13 +10,13 @@
         <!-- Roses are red, violets are blue = classic pop culture poem that he remixes here -->
         <line no="1"><reference type="pop">Roses are reddish</reference></line>
         <line no="2"><reference type="pop">Violets are blueish</reference></line>
-        <line no="3">If it weren’t for <reference type="religion">Christmas</reference></line>
-        <line no="4"><direct-address type="we">We</direct-address>’d all be <reference type="religion">Jewish</reference></line>
+        <line no="3">If it weren’t for <reference type="religious">Christmas</reference></line>
+        <line no="4"><direct-address type="we">We</direct-address>’d all be <reference type="religious">Jewish</reference></line>
     </stanza>
     <stanza no="2">
         <line no="1">Get born again</line>
         <line no="2">Like <person type="political">Ronald Reagan?</person></line>
         <line no="3"><colloquial type="spoken-language">No thanks</colloquial></line>
-        <line no="4"><direct-address type="I">I</direct-address>’d rather be a <reference type="religion">pagan</reference></line>
+        <line no="4"><direct-address type="I">I</direct-address>’d rather be a <reference type="religious">pagan</reference></line>
     </stanza>
 </poem>
