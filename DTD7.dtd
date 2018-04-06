@@ -2,17 +2,27 @@
 <!-- 
 In encoding this text I chose to include some of the most basic structural elements of its genre,
 poetry, by outlining the stanzas and line strucutre of the text, as well as denoting the author and 
-title of the peom in the beginning of the encoding. However, the main work here went into analysing 
+title of the peom in the beginning of the encoding. 
+
+However, the main work here went into analysing 
 the conversational elements in the poems, where Cooper-Clarke seems to be having a chat directly 
-with the reader. The main tools that I identified that enabled CC to do this comes from 1.Making
-references to things that his readers would be familiar with 2. Addressing the reader directly, as
-if speaking to them in person 3. Using colloquial language, including things like cuss words and
-spoken language to make the peoms seem spoken 4. Making references to people that would be known
-to his readers, from politicans to fictional characters, such that the poems almost seem like gossip
-in themselves, and to draw the viewer in through a sense of common understanding/shared culture. 
+with the reader. The main tools that I identified that enabled CC to do this comes from 
+1.Making references to things that his readers would be familiar with 
+2. Addressing the reader directly, as if speaking to them in person, whether You, I or We. 
+Also use of imperative, as if to give advice  or order, as if he is a friend speaking directly 
+to the reader.
+3. Using colloquial language, including things like swear words and spoken language to make the peoms seem spoken 
+4. Making references to people that would be known to his readers, from politicans to 
+fictional characters, such that the poems almost seem like gossip in themselves, and to draw the 
+viewer in through a sense of common understanding/shared culture. 
+
 At least one of all these four elements are included in every one of his poems, the ones here being
 selected randomly based on my own taste, usually more. This establishes CC's pseudo-chat with his 
 readers to be a poetic tool that he employs universally.
+
+The form and content elements of this analysis will be kept separate- notably, I will not make any 
+comment on the content of the title as this is considered to be a strucutural element so will not
+have any bearing on our anaysis of the content of the poem.
 -->
 <!ELEMENT poem (title, author, stanza+)>
 <!ELEMENT title (#PCDATA)>
@@ -28,14 +38,10 @@ feel like a chat. -->
 <!ELEMENT  line (#PCDATA |reference|direct-address|colloquial|person)* >
 <!ATTLIST  line no CDATA #IMPLIED>
 <!ELEMENT  reference (#PCDATA)>
-<!ATTLIST  reference type (politics|religion|literature|art|pop) #IMPLIED >
+<!ATTLIST  reference type (political|religious|literary|art|pop|place|toy) #IMPLIED >
 <!ELEMENT  direct-address (#PCDATA)>
-<!ATTLIST  direct-address type (I|you|your|youre|my|we|our) #IMPLIED >
+<!ATTLIST  direct-address type (I|you|your|youre|my|we|our|imperative) #IMPLIED >
 <!ELEMENT  colloquial (#PCDATA)>
-<!ATTLIST  colloquial type (cuss|saying|spoken-language) #IMPLIED >
+<!ATTLIST  colloquial type (swear|saying|spoken-language) #IMPLIED >
 <!ELEMENT  person (#PCDATA)>
-<!ATTLIST  person type (pop|place|political|religious|literary|art) #IMPLIED >
-
-
-
-
+<!ATTLIST  person type (pop|political|religious|literary|art|general) #IMPLIED >
