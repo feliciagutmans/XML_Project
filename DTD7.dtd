@@ -9,8 +9,10 @@ references to things that his readers would be familiar with 2. Addressing the r
 if speaking to them in person 3. Using colloquial language, including things like cuss words and
 spoken language to make the peoms seem spoken 4. Making references to people that would be known
 to his readers, from politicans to fictional characters, such that the poems almost seem like gossip
-in themselves, and to draw the viewer in through a common understanding. At least one of all these
-four elements are included in every one of his poems, establishing a universal style.
+in themselves, and to draw the viewer in through a sense of common understanding/shared culture. 
+At least one of all these four elements are included in every one of his poems, the ones here being
+selected randomly based on my own taste, usually more. This establishes CC's pseudo-chat with his 
+readers to be a poetic tool that he employs universally.
 -->
 <!ELEMENT poem (title, author, stanza+)>
 <!ELEMENT title (#PCDATA)>
