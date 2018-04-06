@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Action Man</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <!--Note: I was quite surprised by the structure of this poem- it looks like it would
+    be made of several stanzas but instead, the website shows the poem to be made of only two
+    parts. Further research revealed that poeple had encoded it different ways but this is primary way.-->
+    <stanza no="1">
+        <!--Decidede to put Khaki as pop reference as that is what is associated with military
+        clothing in popular culture. Khaki is not a neutral colour: military connotations.-->
+        <line no="1">Give him scars and <reference type="pop">khaki</reference> to wear</line>
+        <line no="2">Remove his balls, he’ll go anywhere</line>
+        <line no="3">He doesn’t speak, he doesn’t dare</line>
+        <line no ="4">Death sneaks, he isn’t scared</line>
+        <line no="5">Minus ba lls, he doesn’t care</line>
+        <!--Ambiguous use of Jacks, probably referring to the game Jacks, that readers 
+        might know from popular games in childhood.Lexical field of games-->
+        <!--"Action man" reference to doll in pop culture, Action Man. Chose to keep title separate from
+        Rest of text, as independant entity, so not commenting on the reference made there too.-->
+        <line no="6"><reference type="pop">Jacks</reference> beware, <reference type="pop">action man</reference>.</line>
+        <!--Play on Lancashire town name "Accrington" for onomatopea gun sounds -->
+        <line no="7">He can ack-ack <reference type="place">Ackrington</reference>, bomb <reference type="place">Berlin</reference></line>
+        <line no="8">Reduce <direct-address type="your">your</direct-address> car to a heap of tin</line>
+        <line no="9">Wage war, what’s more – win</line>
+        <line no="10">Punctured skin means nothing to him</line>
+        <line no="11">The human grenade minus pin</line>
+        <line no="12">That’s him, <reference type="pop">action man</reference></line>
+    </stanza>
+    <stanza no="2">
+        <line no="3">A chin with a thin <reference type="name">Kirk Douglas</reference> cleft</line>
+        <line no="4">Squad by the bleeding left</line>
+        <line no="5">Don’t shout he’s deaf</line>
+        <line no="6">Head over heels in love with death</line>
+        <line no="7">Beware of the wrath of the man bereft</line>
+        <line no="8">No marriage plans for action man</line>
+    </stanza>
+</poem>
