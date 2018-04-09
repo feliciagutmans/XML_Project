@@ -19,13 +19,16 @@
     <stanza no="2">
         <line no="1">Old men with purple necks</line>
         <line no="2">Who tell you sport is better than sex</line>
-        <line no="3"><reference type="literary"> Rejuvenare</reference> an old pudenda</line>
+        <!--Use of Latin gives literary flair- as a dead language (in contemporary societies, not academia)
+            it is now purely literary so infuses literature into every instance of its use. -->
+        <line no="3"><reference type="literary">Rejuvenare</reference> an old pudenda</line>
         <line no="4">With a bunch of twigs and a young offender</line>
     </stanza>
     <stanza no="3">
         <line no="1">Sweet little fifteen on a summer hike</line>
         <line no="2">Vandal maimed, vandal spite</line>
-        <line no="3">Vandals sent to up above</line>
+        <!--"Up above" understood to mean heaven-->
+        <line no="3">Vandals sent to <reference type="religious">up above</reference></line>
         <line no="4">A punishment meted out with love</line>
     </stanza>
 </poem>

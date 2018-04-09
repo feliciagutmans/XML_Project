@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Full-Time Loser</title>
+     <author>
+    <forename>John</forename>
+    <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza no="1">
+        <line no="1"><direct-address>Stop</direct-address> that horse</line> 
+        <line no="2">He wears my shirt</line>
+        <line no="3">Regret remorse</line> 
+        <line no="4">O how they hurt</line> 
+        <line no="5"><direct-address type="I">I</direct-address> knock on doors</line> 
+        <line no="6">They turn to dirt</line>
+        <!--Only one saying, but split into two lines, so annotated as two parts-->
+        <line no="7"><colloquial type="saying">Always the beggar</colloquial></line> 
+        <line no="8"><colloquial type="saying">Never the chooser</colloquial></line> 
+        <line no="9">Half-clever</line> 
+        <line no="10">Full-time loser</line>
+    </stanza>
+    <stanza no="2">
+        <line no="1">From the slumberland</line> 
+        <!--Though a metaphor at its core, this is a common saying in both spoken and written English-->
+        <line no="2">That <colloquial type="saying">time forgot</colloquial></line>
+        <!--Reference to Alice in Wonderland, distinguished by use of "wonderland" as one word rather than 
+        wonder land. Though now not uncommon word (eg. Winter Wonderland in London) Carroll's was the original.-->
+        <line no="3">To the <reference type="literary">wonderland</reference></line> 
+        <line no="4">Of a <colloquial type="saying">spineless</colloquial> <colloquial type="spoken-language">clot</colloquial></line> 
+        <line no="5">Who understands</line> 
+        <line no="6">Who <colloquial type="saying">calls the shots</colloquial></line> 
+        <line no="7"><direct-address type="you">You</direct-address> might know</line> 
+        <line no="8">It’s another user</line> 
+        <line no="9">Part-time poet</line> 
+        <line no="10">Full-time loser</line>
+    </stanza>
+</poem>

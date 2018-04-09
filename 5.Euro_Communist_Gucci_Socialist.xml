@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Euro Communist/Gucci Socialist</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza>
+        <line no="1">For a modern home and cheap electricity</line>
+        <line no="2">Streamlined functional neat simplicity</line>
+        <!--Poet giving readers a series of instructions. Note constrast between the imperative in this stanza
+        and the use of "I" in the next stanza. As in many poems, creating a sense of clear opposition between
+        "I" and "you", between the speaker and the reader in these poems. Not necessarily aggressive, but 
+        emphasising the theme of a two-way conversation between these poems.-->
+        <line no="3"><direct-address type="imperative"></direct-address> Put <direct-address type="your">yourself</direct-address> on the slum clearance list</line>
+        <line no="4"><direct-address type="imperative">Dial</direct-address> a dialectical materialist</line>
+        <line no="5"><direct-address type="imperative">Find out</direct-address> what <direct-address type="your">your</direct-address> net potential is</line>
+        <line no="6"><direct-address type="imperative">Get married</direct-address> to an existentialist</line>
+        <line no="7"><direct-address type="imperative">Don’t doubt</direct-address> <direct-address type="your">your</direct-address> own identity</line>
+        <line no="8"><direct-address type="imperative">Dress down</direct-address> to a cool anonymity</line>
+        <!--Pierre Cardin a fashion designer- fashion here = art-->
+        <line no="9">The <person type="art">Pierre Cardin</person>line to infinity</line>
+        <!--Though not a political party/movement, idea of meritocracy embedded in capitalist democracy-->
+        <line no="10">Clothes to climb the <reference type="political">meritocracy</reference></line>
+        <line no="11">The new age of benevolent bureaucracy</line>
+    </stanza>
+    <stanza>
+        <line no="1"><direct-address type="I">I</direct-address> like to visit all the big cities</line>
+        <line no="2">Museums and municipal facilities</line>
+        <line no="3"><direct-address type="I">I</direct-address> strive for critical ability</line>
+        <line no="4"><direct-address type="I">I</direct-address> thrive on political activity</line>
+        <line no="5"><direct-address type="I">I’m</direct-address> alive in a new society</line>
+        <line no="6"><direct-address type="I">I</direct-address> arrive quickly quietly</line>
+        <line no="7">The car that <direct-address type="I">I</direct-address> drive is the family variety</line>
+        <!--Marxist, Leninist almost person references, but the "ist" at the end defines them as policial words,
+        more closely used to describe their doctrine then them as people.-->
+        <line no="8"><reference type="religious">Roman Catholic</reference> <reference type="political">Marxist</reference> <reference type="political">Leninist</reference></line>
+        <!--Feminist is a social world but also essentially political-->
+        <line no="9">Happily married to an eloquent <reference type="political">feminist</reference></line>
+        <!--Atheism may have political connotations too but is most closely tiesd to religion-->
+        <line no="10">A lapsed <reference type="religious">atheist</reference> all <direct-address type="my">my</direct-address> memories</line>
+        <line no="11">Measure the multitude’s deafening density</line>
+        <line no="12">Psycho citizens are <direct-address>my</direct-address> enemies</line>
+        <!--Nazis not capitalised on site so not here. Again, many social and even religious dimensions to 
+        Nazism but most instrinsically tied to politics.-->
+        <line no="13">Crypto <reference type="political">nazis</reference> and their remedies</line>
+        <!--Again, kept as on the website.-->
+        <line no="14">Keep the city silent as the cemetery’s</line>
+        <line no="15">Architechtural <reference type="art">gothic</reference> immensity</line>
+        <line no="16">A new name on the less-than-<reference type="religious">kosher</reference> list</line>
+        <!--Though effectively linking euro and communist into one word with the hyphen, they remain separate
+        entities with a different refferential power, which is why they have been annotated separately here. -->
+        <!--Fashion designer a creative, considered an artist. Gucci, however, as a brand name, is more part
+        of pop culture than art, with branding itself having a greater influence on culture than on art per se.-->
+        <line no="17">The <reference type="place">euro</reference>-<reference type="political">communist</reference> / a <reference type="pop">gucci</reference> <reference type="political">socialist</reference></line>
+    </stanza>
+</poem>

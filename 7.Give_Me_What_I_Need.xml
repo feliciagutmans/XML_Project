@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Give Me What I Need</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza no="1">
+        <line no="1">Poetry and laughter, how frivolous the sound</line>
+        <line no="2">Where imminent disaster and misery abound</line>
+        <line no="3"><reference type="literary">Les Fleurs du Malcontent</reference> lie strangled in the weed</line>
+        <line no="4"><direct-address type="you">You</direct-address> may never know what <direct-address type="I">I</direct-address> want, but <direct-address type="I">I</direct-address> know what <direct-address type="I">I</direct-address> need.</line>
+    </stanza>
+    <stanza no="2">
+        <line no="1">A victim by profession; blame it on the girl</line>
+        <line no="2">With the vacant possession of the sedentary world</line>
+        <line no="3">I believe in miracles, it’s written in the creed</line>
+        <line no="4">Immaculate connection.</line>
+        <line no="5">Give me what I need.</line>
+    </stanza>
+</poem>
