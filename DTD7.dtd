@@ -1,3 +1,5 @@
+<!--
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 In encoding this text I chose to include some of the most basic structural elements of its genre,
@@ -23,6 +25,84 @@ readers to be a poetic tool that he employs universally.
 The form and content elements of this analysis will be kept separate- notably, I will not make any 
 comment on the content of the title as this is considered to be a strucutural element so will not
 have any bearing on our anaysis of the content of the poem.
+-->
+<!ELEMENT poem (title, author, stanza+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT  author (#PCDATA|forename|surname)*>
+<!ELEMENT  forename (#PCDATA)>
+<!ELEMENT  surname (#PCDATA)>
+<!--In studying these poems in terms of a discussion between poet and reader,
+the tools of referring to something else, directly addressing the reader & the 
+poet's own self and colloquial languagr are three key elements to making it
+feel like a chat. -->
+<!ELEMENT stanza (#PCDATA|line|reference|direct-address|colloquial|person)*>
+<!ATTLIST  stanza no CDATA #IMPLIED>
+<!ELEMENT  line (#PCDATA |reference|direct-address|colloquial|person)* >
+<!ATTLIST  line no CDATA #IMPLIED>
+<!ELEMENT  reference (#PCDATA)>
+<!ATTLIST  reference type (political|religious|literary|art|pop|place|toy) #IMPLIED >
+<!ELEMENT  direct-address (#PCDATA)>
+<!ATTLIST  direct-address type (I|you|your|youre|my|we|our|imperative) #IMPLIED >
+<!ELEMENT  colloquial (#PCDATA)>
+<!ATTLIST  colloquial type (swear|saying|spoken-language) #IMPLIED >
+<!ELEMENT  person (#PCDATA)>
+<!ATTLIST  person type (pop|political|religious|literary|art|general) #IMPLIED >
+
+-->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+In encoding this text I chose to include some of the most basic structural elements of its genre,
+poetry, by outlining the stanzas and line strucutre of the text, as well as denoting the author and 
+title of the peom in the beginning of the encoding. I chose to annotate the numbers of each of the 
+stanzas and lines in these texts for several reasons. Firstly, when discussing the poems, saying the 
+stanza and line numbers is always key to describing the text and what's going on inside of it. It is also
+a handy tool for this particular report, so that I can refer to specific lines in the poems with ease, without
+either my markers or myself having to count lines or search for what I am referring to. This strucutral element
+aslo allows for some interesting observations in terms of eg. how many lines are included in each stanza. Finally,
+the consistency in attotating the lines, though it may seem repetitive, added a sense of continuity between the
+poems that ties them together as one genre, one body of work under the author's name. Laying out
+the title and author's name also creates this effect and the fact that these parts of the XML
+document are not annotated solidifies these as a strucural element in the analysis, separating their
+function from that of the rest of the text in the poem. 
+
+However, the main work here went into analysing 
+the conversational elements in the poems, where Cooper-Clarke seems to be having a chat directly 
+with the reader. The main tools that I identified that enabled CC to do this comes from 
+1.Making references to things that his readers would be familiar with 
+2. Addressing the reader directly, as if speaking to them in person, whether You, I or We. 
+Also use of imperative, as if to give advice  or order, as if he is a friend speaking directly 
+to the reader.
+3. Using colloquial language, including things like swear words and spoken language to make the peoms seem spoken 
+4. Making references to people that would be known to his readers, from politicans to 
+fictional characters, such that the poems almost seem like gossip in themselves, and to draw the 
+viewer in through a sense of common understanding/shared culture. 
+
+At least one of all these four elements are included in every one of his poems, the ones here being
+selected randomly based on my own taste, usually more. This establishes CC's pseudo-chat with his 
+readers to be a poetic tool that he employs universally.
+
+The form and content elements of this analysis will be kept separate- notably, I will not make any 
+comment on the content of the title as this is considered to be a strucutural element so will not
+have any bearing on our anaysis of the content of the poem.
+
+Note- it's often quite hard to determine which words are neutral words or which have political connotations. Eg. does
+"war" count as a politial reference, same as the word "Nazi"? In this way, most words could be argued to be referentially
+loaded. However, whereas there are some words that may easily be argued to have some kind of connotation, other words
+are indistinguishable from the concepts that they connote. For instance, while "cities" connotes a sense of place- as 
+opposed to directly naming a particular place, "Marxist" is undeniably tied to politics. Therefore, to make this analysis
+as consistent as possible, I have endeavoured to only annotate those words with unambigous links to other concepts. Thus
+"citizens" might have political inclinations, these will not be annotated, allowing for undeniable links, like Ronald Ragan
+to be both a "person" and of a "political" type to be clearly defined. 
+
+If I could continue this project, I would go a lot deeper into the tone and implications of the text. The use
+of imperative, for instance, often has a negative overtone. The speaker is instructing the reader, but often in
+an ironic way, that is contemptuous. Indeed, there is a kind of bitterness and contempt that is omnipresent
+throughout the text and would be a really interesting thing to look into. 
+
+Note- I would've liked to put the dates on the poems
+
 -->
 <!ELEMENT poem (title, author, stanza+)>
 <!ELEMENT title (#PCDATA)>
