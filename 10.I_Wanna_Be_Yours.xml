@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza>
+        <line no="1"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be your vacuum cleaner</line>
+        <line no="2">Breathing in <direct-address type="your">your</direct-address> dust</line>
+        <!--Car brand name= part of popular culture-->
+        <line no="3"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be <direct-address>your</direct-address> <reference type="pop">Ford Cortina</reference></line>
+        <line no="4"><direct-address type="I">I</direct-address> will never rust</line>
+        <line no="5">If <direct-address type="you">you</direct-address> like <direct-address type="your">your</direct-address> coffee hot</line>
+        <line no="6">Let <direct-address type="me">me</direct-address> be <direct-address type="your">your</direct-address> coffee pot</line>
+        <line no="7"><direct-address type="you">You</direct-address> <colloquial type="saying">call the shots</colloquial></line>
+        <line no="8"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">yours</direct-address></line>
+    </stanza>
+    <stanza>
+        <line no="1"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">your</direct-address> raincoat</line>
+        <line no="2">For those frequent rainy days</line>
+        <line no="3"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">your</direct-address> <reference type="pop">dreamboat</reference></line>
+        <line no="4">When <direct-address type="you">you</direct-address> want to sail away</line>
+        <line no="5">Let me be <direct-address type="your">your</direct-address> <reference type="toy">teddy bear</reference></line>
+        <line no="6">Take <direct-address type="me">me</direct-address> with <direct-address type="you">you</direct-address> anywhere</line>
+        <line no="7"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">don’t care</colloquial></line>
+        <line no="8"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">yours</direct-address></line>
+    </stanza>
+    <stanza>
+        <line no="1"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be your electric meter</line>
+        <line no="2"><direct-address type="I">I</direct-address> will not run out</line>
+        <line no="3"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be the electric heater</line>
+        <line no="4"><direct-address type="you">You</direct-address>’ll get cold without</line>
+        <line no="5"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be your setting lotion</line>
+        <line no="6">Hold your hair in deep devotion</line>
+        <line no="7">Deep as the deep <reference type="place">Atlantic ocean</reference></line>
+        <!--Structure is much more spoken than literary-->
+        <line no="8"><colloquial type="spoken-language">That’s how deep is</colloquial> <direct-address>my</direct-address> devotion</line>
+    </stanza>
+</poem>

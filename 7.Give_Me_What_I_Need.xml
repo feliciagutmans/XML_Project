@@ -15,8 +15,10 @@
     <stanza no="2">
         <line no="1">A victim by profession; blame it on the girl</line>
         <line no="2">With the vacant possession of the sedentary world</line>
-        <line no="3">I believe in miracles, it’s written in the creed</line>
-        <line no="4">Immaculate connection.</line>
-        <line no="5">Give me what I need.</line>
+        <line no="3"><direct-address type="I">I</direct-address> believe in miracles, it’s written in the creed</line>
+        <!--Clear Reference to Immaculate Conception, as in the Virgin Mary-->
+        <line no="4"><reference>Immaculate connection</reference>.</line>
+        <!--Directly addresses reader in a kind of climax of references-->
+        <line no="5"><direct-address type="imperative">Give</direct-address> <direct-address type="me">me</direct-address> what <direct-address type="I">I</direct-address> need.</line>
     </stanza>
 </poem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<poem>
+    <title>Network South East</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper-Clarke</surname>
+    </author>
+    <stanza no="1">
+        <line no="1">It’s so insubstantial, it swerves on the curves.</line>
+        <line no="2">The noise of the upholstery <colloquial type="saying">batters the nerves</colloquial>. </line>
+        <!--"Day after day" is a common saying-->
+        <line no="3">If <direct-address type="you">you</direct-address> were a passenger <colloquial>day after day</colloquial></line>
+        <line no="4"><direct-address type="you">You</direct-address>’d pay to have somebody blow <direct-address type="you">you</direct-address> away.</line>
+        <line no="5">As <direct-address type="I">I</direct-address> travel these tracks <direct-address type="I">I</direct-address> cannot forgive</line>
+        <!--Though also makes sense in plain language, "losing the will to live" or "losing the incentive to live" is also
+        a dramatic way to express extreme annoyance, frustration or discomfort, without the speaker actually wanting to die-->
+        <line no="6">How <direct-address type="I">I</direct-address> lose by degrees <colloquial type="saying">the incentive to live</colloquial></line>
+        <line no="7">Knowing that vengeance will never be <direct-address type="my">mine</direct-address></line>
+        <line no="8">That’s what <colloquial type="spoken-language">hurts</colloquial> on the misery line.</line>
+        <!--"Hell on Wheels" was originally used to describe an assembly of gambling-houses, saloons, dance houses and
+        brothels that followed Union Pacific railworkers around as they built the First Transcntinental ailroad in 1860s
+        USA. Since then the term was adopted as a nickname in the US army, has become the name of a Motorcycle club
+        and appeared in many films, including a popular post-poem TV series in 2011.References within references!-->
+        <!--Go-faster stripes: turns a phrase into an adjective: spoken language becomes textual.-->
+        <line no="9"><reference type="pop">Hell on Wheels</reference> with <colloquial type="spoken-language">go-faster stripes</colloquial>.</line>
+        <line no="10">These passengers here are the tolerant type</line>
+        <line no="11"><direct-address type="I">I</direct-address>’d like to see them in seven months’ time</line>
+        <line no="12">When the shatter-proof windows are splattered with slime</line>
+        <!--Sacked is a spoken term but is also expression- "sacked" sounds like putting in a sack, in literal terms, but it isn't.-->
+        <line no="13">And they’ve <colloquial type="saying">sacked</colloquial> all the <colloquial type="spoken-language">fellas</colloquial> who did the repairs</line>
+        <line no="14">And shovelled the cheeseburgers off the chairs</line>
+        <!--Ironically citing a classic car/train scent that is kitchy but everyone knows-->
+        <line no="15">From germ-free services smelling of <reference type="pop">pine</reference></line>
+        <line no="16">Now it’s travel <colloquial type="spoken-language">no-class</colloquial> on the misery line.</line>
+    </stanza>
+</poem>
