@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
 <poem>
+    <title>I Wanna Be Yours</title>
     <author>
         <forename>John</forename>
         <surname>Cooper-Clarke</surname>
