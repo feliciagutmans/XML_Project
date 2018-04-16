@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE poems SYSTEM "DTD7.dtd">
+<?xml-stylesheet href="stylesheet3.xsl" type="text/xsl" ?>
+
+<poems>
+    <poem>
+        <title>1. Pagan</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <!-- Roses are red, violets are blue = classic pop culture poem that he remixes here -->
+            <line no="1"><reference type="pop">Roses are reddish</reference></line>
+            <line no="2"><reference type="pop">Violets are blueish</reference></line>
+            <line no="3">If it weren’t for <reference type="religious">Christmas</reference></line>
+            <line no="4"><direct-address type="we">We</direct-address>’d all be <reference type="religious">Jewish</reference></line>
+        </stanza>
+        <stanza no="2">
+            <line no="1">Get born again</line>
+            <line no="2">Like <person type="political">Ronald Reagan</person>?</line>
+            <line no="3"><colloquial type="spoken-language">No thanks</colloquial></line>
+            <line no="4"><direct-address type="I">I</direct-address>’d rather be a <reference type="religious">pagan</reference></line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>2. Action Man</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <!--Note: I was quite surprised by the structure of this poem- it looks like it would
+    be made of several stanzas but instead, the website shows the poem to be made of only two
+    parts. Further research revealed that poeple had encoded it different ways but this is primary way.-->
+        <stanza no="1">
+            <!--Decidede to put Khaki as pop reference as that is what is associated with military
+        clothing in popular culture. Khaki is not a neutral colour: military connotations.-->
+            <line no="1"><direct-address type="imperative">Give</direct-address> him scars and <reference type="pop">khaki</reference> to wear</line>
+            <line no="2"><direct-address type="imperative">Remove</direct-address> his balls, he’ll go anywhere</line>
+            <line no="3">He doesn’t speak, he doesn’t dare</line>
+            <line no ="4">Death sneaks, he isn’t scared</line>
+            <line no="5">Minus balls, he doesn’t care</line>
+            <!--Ambiguous use of Jacks, probably referring to the game Jacks, that readers 
+        might know from popular games in childhood, drawing them in. + Lexical field of games.-->
+            <!--"Action man" reference to doll in pop culture, Action Man. Chose to keep title separate from
+        Rest of text, as independant entity, so not commenting on the reference made there too.-->
+            <line no="6"><reference type="toy">Jacks</reference> beware, <reference type="toy">action man</reference>.</line>
+            <!--Play on Lancashire town name "Accrington" for onomatopea gun sounds -->
+            <line no="7">He can ack-ack <reference type="place">Ackrington</reference>, bomb <reference type="place">Berlin</reference></line>
+            <line no="8">Reduce <direct-address type="your">your</direct-address> car to a heap of tin</line>
+            <line no="9">Wage war, what’s more – win</line>
+            <line no="10">Punctured skin means nothing to him</line>
+            <line no="11">The human grenade minus pin</line>
+            <line no="12">That’s him, <reference type="toy">action man</reference></line>
+        </stanza>
+        <stanza no="2">
+            <line no="3">A chin with a thin <person type="pop">Kirk Douglas</person> cleft</line>
+            <!--Ambiguous use of bleeding but main overtone of "bleeding" as colloquial swear word,
+        particularly as sounds shouted, emphasised by "don't shout" in next line -->
+            <line no="4">Squad by the <colloquial type="swear">bleeding</colloquial> left</line>
+            <line no="5"><direct-address type="imperative">Don’t</direct-address> shout he’s deaf</line>
+            <line no="6"><colloquial type="saying">Head over heels</colloquial> in love with death</line>
+            <line no="7"><direct-address type="imperative">Beware</direct-address> of the wrath of the man bereft</line>
+            <!--Consider marriage in this context as pop reference due to popular role of action man in 
+        child's games:like his contemporary Ken, Action Man's role in children's games is often
+        the male counterpart to Barbie etc, so is invariably a love interest, often attached to marriage.-->
+            <line no="8">No <reference type="pop">marriage plans</reference> for <reference type="toy">action man</reference></line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>3. Arts N' Crafts</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1"> 
+            <line no="1">Out of bed into the Shed</line>
+            <!--Reference to Alice in Wonderland -->
+            <line no="2"><reference type="literary">To paint the wooden roses red</reference></line>
+            <!--Reference to rocking horse- a staple of childhood games and therefore pop culture-->
+            <line no="3">To ride <reference type="pop">a rocking quadruped</reference></line> 
+            <line no="4">With a big idea in <direct-address type="your">your </direct-address>head</line>
+        </stanza>
+        <stanza no="2">
+            <!--"Form follows function" core philosophy of 20th century modernist architecture eg. Le Corbusier.
+        Reference made explicit in the following line "rudiments of good design", like what modernists said. 
+        Note: Mocking mediocre quotidien by contrasting high culture (architectural theory, fine wine) to 
+        sheds + melamine tables (Ikea). -->
+            <line no="1"><reference type="art">Form and function</reference> in a line</line> 
+            <line no="2">The rudiments of good design</line> 
+            <line no="3">From the oaken leg to the fine wine</line> 
+            <line no="4">To table tops of melamine</line> 
+        </stanza>
+        <stanza no="3"> 
+            <line no="1">There’s nothing that <direct-address type="you">you</direct-address> couldn’t make</line> 
+            <line no="2">No effect <direct-address type="you">you </direct-address> couldn’t fake</line>
+            <!--Undertone of contempt present throughout his poems. -->
+            <line no="3">A pebble sprayed with metal flake</line> 
+            <line no="4">Would make a precious paperweight</line> 
+        </stanza>
+        <stanza no="4">
+            <line no="1"><reference type="toy">Teddy bears</reference> to stuff with stuff</line>
+            <!--Would not consider "muff" a swear word, but certainly spoken slang. Nylon Mink- luxe/banal-->
+            <line no="2">Like nylon mink from a lady’s <colloquial type="spoken-language">muff</colloquial></line> 
+            <line no="3">Cotton balls and a powder puff</line> 
+            <line no="4"><colloquial type="spoken-language">Pom poms</colloquial> and pocket fluff</line> 
+        </stanza>
+        <stanza no="5"> 
+            <line no="1">Stainless steel and a rock hard aura</line> 
+            <line no="2">The marble glance of a lost explorer</line>
+            <!--Seems like a random name of an "ordinary", general person. REFERENCE THOUHG?-->
+            <line no="3">A heavy heart for the love of <person type="general">Nora</person></line>
+            <!--Flower/ daisy chains common element in pop culture, stopping this from being pure metaphor.
+        Amphora mainly used to describe vessels from ancient greece. The kind of thing to decorate a garden nowadays.-->
+            <line no="4"><reference type="pop">Chains of flowers</reference> on a draped <reference type="art"> amphora </reference></line> 
+        </stanza>
+        <stanza no="6">
+            <!-- Such contempt, so bitter, what an arse.-->
+            <line no="1">Time time time to slay</line> 
+            <line no="2">Each crowded hour of every day</line> 
+            <line no="3">Where indolence is kept at bay</line> 
+            <line no="4">In an <colloquial type="spoken-language">arty-crafy</colloquial> <colloquial type="spoken-language">kinda</colloquial> way</line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>4. Bunch of Twigs</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <!--Note: not capitalised on original site so not capitalised here.-->
+            <line no="1">In the <reference type="place">isle of man</reference> there are no louts</line>
+            <line no="2">They’re all down the dungeons <colloquial type="saying">dishing it out</colloquial></line>
+            <!--Common opposition used in everyting from parenting to beauty products-->
+            <line no="3">Think them <colloquial type="saying">tough but tender</colloquial></line>
+            <line no="4">With a bunch of twigs</line>
+            <!-- Political/legal way to describe someone who's committed a crime. Pop culture connotations.-->
+            <line no="5">And a <reference type="political">young offender</reference></line>
+        </stanza>
+        <stanza no="2">
+            <line no="1">Old men with purple necks</line>
+            <line no="2">Who tell you sport is better than sex</line>
+            <!--Use of Latin gives literary flair- as a dead language (in contemporary societies, not academia)
+            it is now purely literary so infuses literature into every instance of its use. -->
+            <line no="3"><reference type="literary">Rejuvenare</reference> an old pudenda</line>
+            <line no="4">With a bunch of twigs and a young offender</line>
+        </stanza>
+        <stanza no="3">
+            <line no="1">Sweet little fifteen on a summer hike</line>
+            <line no="2">Vandal maimed, vandal spite</line>
+            <!--"Up above" understood to mean heaven-->
+            <line no="3">Vandals sent to <reference type="religious">up above</reference></line>
+            <line no="4">A punishment meted out with love</line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title >5. Euro Communist/Gucci Socialist</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <line no="1">For a modern home and cheap electricity</line>
+            <line no="2">Streamlined functional neat simplicity</line>
+            <!--Poet giving readers a series of instructions. Note constrast between the imperative in this stanza
+        and the use of "I" in the next stanza. As in many poems, creating a sense of clear opposition between
+        "I" and "you", between the speaker and the reader in these poems. Not necessarily aggressive, but 
+        emphasising the theme of a two-way conversation between these poems.-->
+            <line no="3"><direct-address type="imperative"></direct-address> Put <direct-address type="your">yourself</direct-address> on the slum clearance list</line>
+            <line no="4"><direct-address type="imperative">Dial</direct-address> a dialectical materialist</line>
+            <line no="5"><direct-address type="imperative">Find</direct-address> out what <direct-address type="your">your</direct-address> net potential is</line>
+            <line no="6"><direct-address type="imperative">Get</direct-address> married to an existentialist</line>
+            <line no="7"><direct-address type="imperative">Don’t</direct-address> doubt <direct-address type="your">your</direct-address> own identity</line>
+            <line no="8"><direct-address type="imperative">Dress</direct-address> down to a cool anonymity</line>
+            <!--Pierre Cardin a fashion designer- fashion here = art-->
+            <line no="9">The <person type="art">Pierre Cardin</person>line to infinity</line>
+            <!--Though not a political party/movement, idea of meritocracy embedded in capitalist democracy-->
+            <line no="10">Clothes to climb the <reference type="political">meritocracy</reference></line>
+            <line no="11">The new age of benevolent bureaucracy</line>
+        </stanza>
+        <stanza no="2">
+            <line no="1"><direct-address type="I">I</direct-address> like to visit all the big cities</line>
+            <line no="2">Museums and municipal facilities</line>
+            <line no="3"><direct-address type="I">I</direct-address> strive for critical ability</line>
+            <line no="4"><direct-address type="I">I</direct-address> thrive on political activity</line>
+            <line no="5"><direct-address type="I">I’m</direct-address> alive in a new society</line>
+            <line no="6"><direct-address type="I">I</direct-address> arrive quickly quietly</line>
+            <line no="7">The car that <direct-address type="I">I</direct-address> drive is the family variety</line>
+            <!--Marxist, Leninist almost person references, but the "ist" at the end defines them as policial words,
+        more closely used to describe their doctrine then them as people.-->
+            <line no="8"><reference type="religious">Roman Catholic</reference> <reference type="political">Marxist</reference> <reference type="political">Leninist</reference></line>
+            <!--Feminist is a social world but also essentially political-->
+            <line no="9">Happily married to an eloquent <reference type="political">feminist</reference></line>
+            <!--Atheism may have political connotations too but is most closely tiesd to religion-->
+            <line no="10">A lapsed <reference type="religious">atheist</reference> all <direct-address type="my">my</direct-address> memories</line>
+            <line no="11">Measure the multitude’s deafening density</line>
+            <line no="12">Psycho citizens are <direct-address>my</direct-address> enemies</line>
+            <!--Nazis not capitalised on site so not here. Again, many social and even religious dimensions to 
+        Nazism but most instrinsically tied to politics.-->
+            <line no="13">Crypto <reference type="political">nazis</reference> and their remedies</line>
+            <!--Again, kept as on the website.-->
+            <line no="14">Keep the city silent as the cemetery’s</line>
+            <line no="15">Architechtural <reference type="art">gothic</reference> immensity</line>
+            <line no="16">A new name on the less-than-<reference type="religious">kosher</reference> list</line>
+            <!--Though effectively linking euro and communist into one word with the hyphen, they remain separate
+        entities with a different refferential power, which is why they have been annotated separately here. -->
+            <!--Fashion designer a creative, considered an artist. Gucci, however, as a brand name, is more part
+        of pop culture than art, with branding itself having a greater influence on culture than on art per se.-->
+            <line no="17">The <reference type="place">euro</reference>-<reference type="political">communist</reference> / a <reference type="pop">gucci</reference> <reference type="political">socialist</reference></line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>6. Full-Time Loser</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <line no="1"><direct-address>Stop</direct-address> that horse</line> 
+            <line no="2">He wears my shirt</line>
+            <line no="3">Regret remorse</line> 
+            <line no="4">O how they hurt</line> 
+            <line no="5"><direct-address type="I">I</direct-address> knock on doors</line> 
+            <line no="6">They turn to dirt</line>
+            <!--Only one saying, but split into two lines, so annotated as two parts-->
+            <line no="7"><colloquial type="saying">Always the beggar</colloquial></line> 
+            <line no="8"><colloquial type="saying">Never the chooser</colloquial></line> 
+            <line no="9">Half-clever</line> 
+            <line no="10">Full-time loser</line>
+        </stanza>
+        <stanza no="2">
+            <line no="1">From the slumberland</line> 
+            <!--Though a metaphor at its core, this is a common saying in both spoken and written English-->
+            <line no="2">That <colloquial type="saying">time forgot</colloquial></line>
+            <!--Reference to Alice in Wonderland, distinguished by use of "wonderland" as one word rather than 
+        wonder land. Though now not uncommon word (eg. Winter Wonderland in London) Carroll's was the original.-->
+            <line no="3">To the <reference type="literary">wonderland</reference></line> 
+            <line no="4">Of a <colloquial type="saying">spineless</colloquial> <colloquial type="spoken-language">clot</colloquial></line> 
+            <line no="5">Who understands</line> 
+            <line no="6">Who <colloquial type="saying">calls the shots</colloquial></line> 
+            <line no="7"><direct-address type="you">You</direct-address> might know</line> 
+            <line no="8">It’s another user</line> 
+            <line no="9">Part-time poet</line> 
+            <line no="10">Full-time loser</line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>7. Give Me What I Need</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <line no="1">Poetry and laughter, how frivolous the sound</line>
+            <line no="2">Where imminent disaster and misery abound</line>
+            <line no="3"><reference type="literary">Les Fleurs du Malcontent</reference> lie strangled in the weed</line>
+            <line no="4"><direct-address type="you">You</direct-address> may never know what <direct-address type="I">I</direct-address> want, but <direct-address type="I">I</direct-address> know what <direct-address type="I">I</direct-address> need.</line>
+        </stanza>
+        <stanza no="2">
+            <line no="1">A victim by profession; blame it on the girl</line>
+            <line no="2">With the vacant possession of the sedentary world</line>
+            <line no="3"><direct-address type="I">I</direct-address> believe in miracles, it’s written in the creed</line>
+            <!--Clear Reference to Immaculate Conception, as in the Virgin Mary-->
+            <line no="4"><reference>Immaculate connection</reference>.</line>
+            <!--Directly addresses reader in a kind of climax of references-->
+            <line no="5"><direct-address type="imperative">Give</direct-address> <direct-address type="me">me</direct-address> what <direct-address type="I">I</direct-address> need.</line>
+        </stanza>
+    </poem>
+    
+    
+    <poem>
+        <title>8. Are You The Business</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <!--Chose to use this as a reference rather than a person because it is a fictional character, made
+        for entertainment- same as Action Man is a toy rather than a real person, although he has person traits.(See poem 2)-->
+            <line no="1">Does <reference type="pop">Superman</reference> wear blue tights</line>
+            <!--Reference Kryptonite because it is a fictional thing but everyone knows what it is.-->
+            <line no="2">And keep away from <reference type="pop">kryptonite</reference></line>
+            <!--"Mugged" common term in spoken language but not frequently used in written text-->
+            <line no="3">Do old ladies get <colloquial type="spoken-language">mugged</colloquial> at night</line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="2">
+            <line no="1">Do workers want a living wage</line>
+            <line no="2">Do <colloquial type="spoken-language">rock stars</colloquial> lie about their age</line>
+            <line no="3">Would a tiger run from an open cage</line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="3">
+            <line no="1">Are <direct-address type="you">you</direct-address> the <colloquial type="swear">fuck off</colloquial> business</line>
+            <line no="2">Is <direct-address type="my">my</direct-address> first name <person type="general">John</person></line>
+            <!--"Strangeways" is the commonly used name for high-security men's prison, HM Manchester. Capital "S" 
+        omitted in original transcription so maintained here.-->
+            <line no="3">Is <reference type="place">strangeways</reference> full of prisoners</line>
+            <line no="4">Am <direct-address>I</direct-address> over twenty-one</line>
+        </stanza>
+        <stanza no="4">
+            <!--"Royal family" is not general here, referring to the British Royal Family.-->
+            <line no="1">Are the <reference type="political">royal family</reference> really rich</line>
+            <!--Like Superman, Scooby-Do not a real person- also he is a fictional dog.-->
+            <line no="2">Is <reference type="pop">Scooby-Doo</reference> one <colloquial type="swear">son-of-a bitch</colloquial></line>
+            <line no="3">Is <reference type="place">Wembley stadium</reference> a football pitch</line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="5">
+            <!--Ex- Panamanian politician and military officer-->
+            <line no="1">Did <person type="political">Noriega</person> knock out coke</line>
+            <!--As a musician Bob Marley is here considered an artist, although he is also a pop figure/icon.-->
+            <line no="2">Did <person type="art">Bob Marley</person> like the odd smoke</line>
+            <!--Though a biblical figure, for which some might argue against, there is evidence that he was a real
+        person, so deserves the "person" tags.-->
+            <line no="3">Was <person type="religious">Jesus Christ</person> a decent <colloquial type="spoken-language">bloke</colloquial></line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="6">
+            <!--As an actor also an artist. Reference: known for his macho image, hellraiser lifesyle and "tough guy" roles-->
+            <line no="1">Does <person type="art">Oliver Reed</person> ever get pissed</line>
+            <!--Rock and roll singer and dancer largely known for popularising the Twist.Though a pop figure introducing
+        a pop dance, still a musician and dancer, so artist,-->
+            <line>Can <person type="art">Chubby Checker</person> do the twist</line>
+            <line>Was Karl Marx a communist</line>
+            <line>Are you the business</line>
+        </stanza>
+        <stanza no="7">
+            <line no="1">Was <person type="art">James Dean</person>a <colloquial type="saying">cool cat</colloquial></line>
+            <line no="2">Was <person type="political">Kennedy</person> a <reference type="political">democrat</reference></line>
+            <line no="3">Do <reference type="religious">Hacedic</reference> men wear hats</line>
+            <line no="4">Are you the business</line>
+        </stanza>
+        <stanza no="8">
+            <line no="1">Will narcotics get you <colloquial type="spoken-language">hooked</colloquial></line>
+            <line no="2">Did <person type="literary">Dostoyevsky</person> write <colloquial type="spoken-language">the odd</colloquial> book</line>
+            <!--"a bit of a" is a commonly used expression, therefore more of a saying than just simply spoken language-->
+            <line no="3">Was <person type="pop">Al Capone</person> <colloquial type="saying">a bit of a</colloquial> <colloquial type="spoken-language">crook</colloquial></line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="9">
+            <line no="1">Did <person type="art">Buddy Holly</person> wear horn-rimmed <colloquial type="spoken-language">specs</colloquial></line>
+            <!--Consider czechs as political as it denotes a group of people based on nationality, bound by a shared political denominator-->
+            <line no="2">Is <reference type="place">czechoslovakia</reference> full of <person type="political">czechs</person></line>
+            <!--Literary in that he presented his ideas within publications, but more of a theorist of sorts.-->
+            <line no="3">Did <person type="literary">Sigmund Freud</person> consider sex</line>
+            <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
+        </stanza>
+        <stanza no="10">
+            <line no="1">Did <person type="art">Elvis</person> ever <reference type="pop">rock ‘n roll</reference></line>
+            <!--"soul" could have many meanings but here it refers to the music genre, so a part of popular culture-->
+            <line no="2">Did <person type="art">James Brown</person> have any <reference type="pop">soul</reference></line>
+            <line no="3">Will <direct-address type="I">I</direct-address> touch <direct-address type="you">you</direct-address> <colloquial type="saying">with a ten-foot barge pole</colloquial></line>
+            <line no="4">Are <direct-address>you</direct-address> the business</line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>9. Network South East</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza no="1">
+            <line no="1">It’s so insubstantial, it swerves on the curves.</line>
+            <line no="2">The noise of the upholstery <colloquial type="saying">batters the nerves</colloquial>. </line>
+            <!--"Day after day" is a common saying-->
+            <line no="3">If <direct-address type="you">you</direct-address> were a passenger <colloquial>day after day</colloquial></line>
+            <line no="4"><direct-address type="you">You</direct-address>’d pay to have somebody blow <direct-address type="you">you</direct-address> away.</line>
+            <line no="5">As <direct-address type="I">I</direct-address> travel these tracks <direct-address type="I">I</direct-address> cannot forgive</line>
+            <!--Though also makes sense in plain language, "losing the will to live" or "losing the incentive to live" is also
+        a dramatic way to express extreme annoyance, frustration or discomfort, without the speaker actually wanting to die-->
+            <line no="6">How <direct-address type="I">I</direct-address> lose by degrees <colloquial type="saying">the incentive to live</colloquial></line>
+            <line no="7">Knowing that vengeance will never be <direct-address type="my">mine</direct-address></line>
+            <line no="8">That’s what <colloquial type="spoken-language">hurts</colloquial> on the misery line.</line>
+            <!--"Hell on Wheels" was originally used to describe an assembly of gambling-houses, saloons, dance houses and
+        brothels that followed Union Pacific railworkers around as they built the First Transcntinental ailroad in 1860s
+        USA. Since then the term was adopted as a nickname in the US army, has become the name of a Motorcycle club
+        and appeared in many films, including a popular post-poem TV series in 2011.References within references!-->
+            <!--Go-faster stripes: turns a phrase into an adjective: spoken language becomes textual.-->
+            <line no="9"><reference type="pop">Hell on Wheels</reference> with <colloquial type="spoken-language">go-faster stripes</colloquial>.</line>
+            <line no="10">These passengers here are the tolerant type</line>
+            <line no="11"><direct-address type="I">I</direct-address>’d like to see them in seven months’ time</line>
+            <line no="12">When the shatter-proof windows are splattered with slime</line>
+            <!--Sacked is a spoken term but is also expression- "sacked" sounds like putting in a sack, in literal terms, but it isn't.-->
+            <line no="13">And they’ve <colloquial type="saying">sacked</colloquial> all the <colloquial type="spoken-language">fellas</colloquial> who did the repairs</line>
+            <line no="14">And shovelled the cheeseburgers off the chairs</line>
+            <!--Ironically citing a classic car/train scent that is kitchy but everyone knows-->
+            <line no="15">From germ-free services smelling of <reference type="pop">pine</reference></line>
+            <line no="16">Now it’s travel <colloquial type="spoken-language">no-class</colloquial> on the misery line.</line>
+        </stanza>
+    </poem>
+    
+    <poem>
+        <title>10. I Wanna Be Yours</title>
+        <author>
+            <forename>John</forename>
+            <surname>Cooper Clarke</surname>
+        </author>
+        <stanza>
+            <line no="1"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be your vacuum cleaner</line>
+            <line no="2">Breathing in <direct-address type="your">your</direct-address> dust</line>
+            <!--Car brand name= part of popular culture-->
+            <line no="3"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be <direct-address>your</direct-address> <reference type="pop">Ford Cortina</reference></line>
+            <line no="4"><direct-address type="I">I</direct-address> will never rust</line>
+            <line no="5">If <direct-address type="you">you</direct-address> like <direct-address type="your">your</direct-address> coffee hot</line>
+            <line no="6">Let <direct-address type="me">me</direct-address> be <direct-address type="your">your</direct-address> coffee pot</line>
+            <line no="7"><direct-address type="you">You</direct-address> <colloquial type="saying">call the shots</colloquial></line>
+            <line no="8"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">yours</direct-address></line>
+        </stanza>
+        <stanza>
+            <line no="1"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">your</direct-address> raincoat</line>
+            <line no="2">For those frequent rainy days</line>
+            <line no="3"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">your</direct-address> <reference type="pop">dreamboat</reference></line>
+            <line no="4">When <direct-address type="you">you</direct-address> want to sail away</line>
+            <line no="5">Let me be <direct-address type="your">your</direct-address> <reference type="toy">teddy bear</reference></line>
+            <line no="6">Take <direct-address type="me">me</direct-address> with <direct-address type="you">you</direct-address> anywhere</line>
+            <line no="7"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">don’t care</colloquial></line>
+            <line no="8"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be <direct-address type="your">yours</direct-address></line>
+        </stanza>
+        <stanza>
+            <line no="1"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be your electric meter</line>
+            <line no="2"><direct-address type="I">I</direct-address> will not run out</line>
+            <line no="3"><direct-address type="I">I</direct-address> <colloquial>wanna</colloquial> be the electric heater</line>
+            <line no="4"><direct-address type="you">You</direct-address>’ll get cold without</line>
+            <line no="5"><direct-address type="I">I</direct-address> <colloquial type="spoken-language">wanna</colloquial> be your setting lotion</line>
+            <line no="6">Hold your hair in deep devotion</line>
+            <line no="7">Deep as the deep <reference type="place">Atlantic ocean</reference></line>
+            <!--Structure is much more spoken than literary-->
+            <line no="8"><colloquial type="spoken-language">That’s how deep is</colloquial> <direct-address>my</direct-address> devotion</line>
+        </stanza>
+    </poem>
+</poems>

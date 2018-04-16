@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<?xml-stylesheet href="stylesheet3.xsl" type="text/xsl" ?>
+
 <poem>
     <title>Action Man</title>
     <author>
         <forename>John</forename>
-        <surname>Cooper-Clarke</surname>
+        <surname>Cooper Clarke</surname>
     </author>
     <!--Note: I was quite surprised by the structure of this poem- it looks like it would
     be made of several stanzas but instead, the website shows the poem to be made of only two
@@ -16,7 +18,7 @@
         <line no="2"><direct-address type="imperative">Remove</direct-address> his balls, he’ll go anywhere</line>
         <line no="3">He doesn’t speak, he doesn’t dare</line>
         <line no ="4">Death sneaks, he isn’t scared</line>
-        <line no="5">Minus ba lls, he doesn’t care</line>
+        <line no="5">Minus balls, he doesn’t care</line>
         <!--Ambiguous use of Jacks, probably referring to the game Jacks, that readers 
         might know from popular games in childhood, drawing them in. + Lexical field of games.-->
         <!--"Action man" reference to doll in pop culture, Action Man. Chose to keep title separate from
@@ -31,10 +33,10 @@
         <line no="12">That’s him, <reference type="toy">action man</reference></line>
     </stanza>
     <stanza no="2">
-        <line no="3">A chin with a thin <person type="pop">Kirk Douglas</person>cleft</line>
+        <line no="3">A chin with a thin <person type="pop">Kirk Douglas</person> cleft</line>
         <!--Ambiguous use of bleeding but main overtone of "bleeding" as colloquial swear word,
         particularly as sounds shouted, emphasised by "don't shout" in next line -->
-        <line no="4">Squad by the <colloquial type="swear">bleeding</colloquial>left</line>
+        <line no="4">Squad by the <colloquial type="swear">bleeding</colloquial> left</line>
         <line no="5"><direct-address type="imperative">Don’t</direct-address> shout he’s deaf</line>
         <line no="6"><colloquial type="saying">Head over heels</colloquial> in love with death</line>
         <line no="7"><direct-address type="imperative">Beware</direct-address> of the wrath of the man bereft</line>

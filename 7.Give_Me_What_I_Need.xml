@@ -4,7 +4,30 @@
     <title>Give Me What I Need</title>
     <author>
         <forename>John</forename>
-        <surname>Cooper-Clarke</surname>
+        <surname>Cooper Clarke</surname>
+    </author>
+    <stanza no="1">
+        <line no="1">Poetry and laughter, how frivolous the sound</line>
+        <line no="2">Where imminent disaster and misery abound</line>
+        <line no="3"><reference type="literary">Les Fleurs du Malcontent</reference> lie strangled in the weed</line>
+        <line no="4"><direct-address type="you">You</direct-address> may never know what <direct-address type="I">I</direct-address> want, but <direct-address type="I">I</direct-address> know what <direct-address type="I">I</direct-address> need.</line>
+    </stanza>
+    <stanza no="2">
+        <line no="1">A victim by profession; blame it on the girl</line>
+        <line no="2">With the vacant possession of the sedentary world</line>
+        <line no="3"><direct-address type="I">I</direct-address> believe in miracles, it’s written in the creed</line>
+        <!--Clear Reference to Immaculate Conception, as in the Virgin Mary-->
+        <line no="4"><reference>Immaculate connection</reference>.</line>
+        <!--Directly addresses reader in a kind of climax of references-->
+        <line no="5"><direct-address type="imperative">Give</direct-address> <direct-address type="me">me</direct-address> what <direct-address type="I">I</direct-address> need.</line>
+    </stanza>
+</poem>
+
+<poem>
+    <title>Give Me What I Need</title>
+    <author>
+        <forename>John</forename>
+        <surname>Cooper Clarke</surname>
     </author>
     <stanza no="1">
         <line no="1">Poetry and laughter, how frivolous the sound</line>

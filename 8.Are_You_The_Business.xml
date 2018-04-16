@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE poem SYSTEM "file:/Users/feliciagutmans/Desktop/XML%20project/DTD7.dtd">
+<!DOCTYPE poem SYSTEM "DTD7.dtd">
+<?xml-stylesheet href="stylesheet1.xsl" type="text/xsl"?>
+
 <poem>
     <title>Are You The Business</title>
     <author>
         <forename>John</forename>
-        <surname>Cooper-Clarke</surname>
+        <surname>Cooper Clarke</surname>
     </author>
     <stanza no="1">
         <!--Chose to use this as a reference rather than a person because it is a fictional character, made
@@ -13,7 +15,7 @@
         <!--Reference Kryptonite because it is a fictional thing but everyone knows what it is.-->
         <line no="2">And keep away from <reference type="pop">kryptonite</reference></line>
         <!--"Mugged" common term in spoken language but not frequently used in written text-->
-        <line no="3">Do old ladies get <colloquial type="spoken-language">mugged</colloquial>at night</line>
+        <line no="3">Do old ladies get <colloquial type="spoken-language">mugged</colloquial> at night</line>
         <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
     </stanza>
     <stanza no="2">
@@ -67,7 +69,7 @@
         <line no="1">Will narcotics get you <colloquial type="spoken-language">hooked</colloquial></line>
         <line no="2">Did <person type="literary">Dostoyevsky</person> write <colloquial type="spoken-language">the odd</colloquial> book</line>
         <!--"a bit of a" is a commonly used expression, therefore more of a saying than just simply spoken language-->
-        <line no="3">Was <person type="pop">Al Capone</person> <colloquial type="saying">a bit of a</colloquial> <colloquial type="spoken-language"></colloquial>crook</colloquial></line>
+        <line no="3">Was <person type="pop">Al Capone</person> <colloquial type="saying">a bit of a</colloquial> <colloquial type="spoken-language">crook</colloquial></line>
         <line no="4">Are <direct-address type="you">you</direct-address> the business</line>
     </stanza>
     <stanza no="9">
@@ -86,3 +88,4 @@
         <line no="4">Are <direct-address>you</direct-address> the business</line>
     </stanza>
 </poem>
+

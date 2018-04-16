@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE poem SYSTEM "DTD7.dtd">
+<?xml-stylesheet href="stylesheet3.xsl" type="text/xsl" ?>
 <poem>
     <title>Arts N' Crafts</title>
     <author>
         <forename>John</forename>
-        <surname>Cooper-Clarke</surname>
+        <surname>Cooper Clarke</surname>
     </author>
     <stanza no="1"> 
         <line no="1">Out of bed into the Shed</line>
@@ -12,7 +13,7 @@
         <line no="2"><reference type="literary">To paint the wooden roses red</reference></line>
         <!--Reference to rocking horse- a staple of childhood games and therefore pop culture-->
         <line no="3">To ride <reference type="pop">a rocking quadruped</reference></line> 
-        <line no="4">With a big idea in <direct-address type="your">your head</direct-address></line>
+        <line no="4">With a big idea in <direct-address type="your">your </direct-address>head</line>
     </stanza>
     <stanza no="2">
         <!--"Form follows function" core philosophy of 20th century modernist architecture eg. Le Corbusier.
@@ -26,7 +27,7 @@
     </stanza>
     <stanza no="3"> 
         <line no="1">There’s nothing that <direct-address type="you">you</direct-address> couldn’t make</line> 
-        <line no="2">No effect <direct-address type="you">you</direct-address> couldn’t fake</line>
+        <line no="2">No effect <direct-address type="you">you </direct-address> couldn’t fake</line>
         <!--Undertone of contempt present throughout his poems. -->
         <line no="3">A pebble sprayed with metal flake</line> 
         <line no="4">Would make a precious paperweight</line> 
@@ -52,7 +53,7 @@
         <line no="1">Time time time to slay</line> 
         <line no="2">Each crowded hour of every day</line> 
         <line no="3">Where indolence is kept at bay</line> 
-        <line no="4">In an <colloquial type="spoken-language">arty-crafy</colloquial> <colloquial type="spoken-language">kinda</colloquial>way</line>
+        <line no="4">In an <colloquial type="spoken-language">arty-crafy</colloquial> <colloquial type="spoken-language"> kinda</colloquial>way</line>
     </stanza>
 </poem>
 

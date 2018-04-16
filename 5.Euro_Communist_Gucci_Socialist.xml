@@ -4,9 +4,9 @@
     <title>Euro Communist/Gucci Socialist</title>
     <author>
         <forename>John</forename>
-        <surname>Cooper-Clarke</surname>
+        <surname>Cooper Clarke</surname>
     </author>
-    <stanza>
+    <stanza no="1">
         <line no="1">For a modern home and cheap electricity</line>
         <line no="2">Streamlined functional neat simplicity</line>
         <!--Poet giving readers a series of instructions. Note constrast between the imperative in this stanza
@@ -15,17 +15,17 @@
         emphasising the theme of a two-way conversation between these poems.-->
         <line no="3"><direct-address type="imperative"></direct-address> Put <direct-address type="your">yourself</direct-address> on the slum clearance list</line>
         <line no="4"><direct-address type="imperative">Dial</direct-address> a dialectical materialist</line>
-        <line no="5"><direct-address type="imperative">Find out</direct-address> what <direct-address type="your">your</direct-address> net potential is</line>
-        <line no="6"><direct-address type="imperative">Get married</direct-address> to an existentialist</line>
-        <line no="7"><direct-address type="imperative">Don’t doubt</direct-address> <direct-address type="your">your</direct-address> own identity</line>
-        <line no="8"><direct-address type="imperative">Dress down</direct-address> to a cool anonymity</line>
+        <line no="5"><direct-address type="imperative">Find</direct-address> out what <direct-address type="your">your</direct-address> net potential is</line>
+        <line no="6"><direct-address type="imperative">Get</direct-address> married to an existentialist</line>
+        <line no="7"><direct-address type="imperative">Don’t</direct-address> doubt <direct-address type="your">your</direct-address> own identity</line>
+        <line no="8"><direct-address type="imperative">Dress</direct-address> down to a cool anonymity</line>
         <!--Pierre Cardin a fashion designer- fashion here = art-->
         <line no="9">The <person type="art">Pierre Cardin</person>line to infinity</line>
         <!--Though not a political party/movement, idea of meritocracy embedded in capitalist democracy-->
         <line no="10">Clothes to climb the <reference type="political">meritocracy</reference></line>
         <line no="11">The new age of benevolent bureaucracy</line>
     </stanza>
-    <stanza>
+    <stanza no="2">
         <line no="1"><direct-address type="I">I</direct-address> like to visit all the big cities</line>
         <line no="2">Museums and municipal facilities</line>
         <line no="3"><direct-address type="I">I</direct-address> strive for critical ability</line>
